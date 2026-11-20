@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240073
+# Name:KISHORE KUMAR B
+# Date:20-11-2026
 
 
 # AIM:
